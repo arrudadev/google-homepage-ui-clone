@@ -20,8 +20,8 @@ const Header: React.FC = () => {
           <BurgerIconContainer>
             <BurgerIcon />
           </BurgerIconContainer>
-          <MenuItem className="active">All</MenuItem>
-          <MenuItem>Images</MenuItem>
+          <MenuItem className="active">Todos</MenuItem>
+          <MenuItem>Imagens</MenuItem>
         </MenuSection>
         <MenuSection>
           <MoreIconContainer>
