@@ -1,5 +1,5 @@
 <h1>
-  <a href="#">
+  <a href="https://monteiro-alexandre-google-ui-clone.netlify.app">
     Google Home Page UI Clone
   </a>
 </h1>
@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 
 Google Home Page for study purposes, developed with NextJs.
-<p>Deployed <a href="#">here</a>.</p>
+<p>Deployed <a href="https://monteiro-alexandre-google-ui-clone.netlify.app">here</a>.</p>
 
 <p align="center">
   <img alt="GoogleHomePageUiClone" src=".github/assets/google-ui-clone.png" width="100%">
