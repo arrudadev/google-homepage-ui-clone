@@ -17,7 +17,7 @@ export const MenuSection = styled.div`
 `;
 
 export const BurgerIconContainer = styled.div`
-  padding: 12px 12px 12px 0;
+  padding: 12px 12px 7px 0;
 
   cursor: pointer;
 `;
@@ -45,7 +45,7 @@ export const MenuItem = styled.div`
 `;
 
 export const MoreIconContainer = styled.div`
-  padding: 12px;
+  padding: 12px 12px 7px 0;
 
   cursor: pointer;
 `;

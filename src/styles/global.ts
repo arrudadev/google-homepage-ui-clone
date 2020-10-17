@@ -11,7 +11,7 @@ export default createGlobalStyle`
     font-family: Arial, sans-serif;
   }
 
-  html, body {
+  html, body, #__next {
     height: 100%;
   }
 

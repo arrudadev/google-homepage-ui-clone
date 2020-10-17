@@ -1,8 +1,6 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-  margin-top: 24px;
-
   display: flex;
   flex-direction: column;
   background: #f2f2f2;
@@ -25,6 +23,7 @@ export const Links = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-wrap: wrap;
 
   font-size: 13px;
 
@@ -33,8 +32,16 @@ export const Links = styled.div`
   padding: 10px;
 
   > span {
-    margin: 0 10px;
+    margin: 0 5px;
 
     cursor: pointer;
+
+    @media (max-width: 642px) {
+      margin: 5px;
+    }
+  }
+
+  @media (max-width: 642px) {
+    justify-content: left;
   }
 `;
