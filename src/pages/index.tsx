@@ -1,3 +1,9 @@
-export default function Home() {
-  return <h1>Hello Google Homepage</h1>;
-}
+import React from 'react';
+
+import Header from '../components/Header';
+
+const Home: React.FC = () => {
+  return <Header />;
+};
+
+export default Home;
